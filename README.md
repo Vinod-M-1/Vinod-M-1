@@ -17,7 +17,7 @@
 
 ### My Contribution Journey
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinod-M-1/Vinod-M-1/output/github-contribution-grid-snake.svg" alt="Contribution Animation" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Blocks Animation" />
 </p>
 
 ---
