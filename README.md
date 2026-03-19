@@ -6,32 +6,37 @@
 
 ---
 
-### 📊 My GitHub Performance
+### My GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinod-M-1&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/streak?user=Vinod-M-1&theme=radical&hide_border=true" alt="Streak" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinod-M-1&theme=radical&hide_border=true" alt="Streak" height="180px" />
 </p>
 
 ---
 
-### 🐍 My Contribution Journey
+### My Contribution Journey
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinod-M-1/Vinod-M-1/output/github-contribution-grid-snake.svg" alt="Tetris Animation" />
+  <img src="https://raw.githubusercontent.com/Vinod-M-1/Vinod-M-1/output/github-contribution-grid-snake.svg" alt="Contribution Animation" />
 </p>
+
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 <p align="left">
-  <a href="mailto:vinod.muddasu1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vinod-m1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vinod.muddasu1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/vinod-m1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
