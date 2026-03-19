@@ -17,14 +17,13 @@
 
 ### 🐍 My Contribution Journey
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinod-M-1/Vinod-M-1/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Vinod-M-1/Vinod-M-1/output/github-contribution-grid-snake.svg" alt="Tetris Animation" />
 </p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql" />
 </p>
 
 ---
